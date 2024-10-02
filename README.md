@@ -1,5 +1,4 @@
-
-![image](https://github.com/user-attachments/assets/7cc149f9-c90c-4232-b496-94fea41a4704)
+![image](https://github.com/user-attachments/assets/bae7656a-faf9-4b09-bfec-d7422e8c8846)
 
 <!---
 quiescently/quiescently is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
